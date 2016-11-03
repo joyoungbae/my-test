@@ -1,4 +1,5 @@
-feature 005
+﻿feature 005
 feature 006
 私も日本語テスト
 한글어 테스트
+기능 007 테스트

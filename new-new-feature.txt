@@ -1,2 +1,3 @@
 feature 005
 feature 006
+私も日本語テスト
